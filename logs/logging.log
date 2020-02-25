@@ -1,0 +1,61 @@
+2020-02-25 12:54:10 DEBUG ConstructionCostCalculator:12 - Entered InterestClient main method
+2020-02-25 12:54:10 INFO  ConstructionCostCalculator:16 - Enter principle:
+2020-02-25 12:54:14 INFO  ConstructionCostCalculator:18 - Enter rate:
+2020-02-25 12:54:15 INFO  ConstructionCostCalculator:20 - Enter time in years:
+2020-02-25 12:54:17 INFO  ConstructionCostCalculator:22 - Enter the choice
+1.Simple Interest
+2.Compound Interest
+2020-02-25 12:54:18 DEBUG ConstructionCostCalculator:11 - Constructor invoked
+2020-02-25 12:54:18 INFO  ConstructionCostCalculator:28 - The interest is:
+2020-02-25 12:54:18 DEBUG ConstructionCostCalculator:18 - Calculated simple interest
+2020-02-25 12:54:18 INFO  ConstructionCostCalculator:30 - 300.0 Rupees
+2020-02-25 12:54:22 DEBUG ConstructionCostCalculator:12 - Entered InterestClient main method
+2020-02-25 12:54:22 INFO  ConstructionCostCalculator:16 - Enter principle:
+2020-02-25 12:54:25 INFO  ConstructionCostCalculator:18 - Enter rate:
+2020-02-25 12:54:26 INFO  ConstructionCostCalculator:20 - Enter time in years:
+2020-02-25 12:54:28 INFO  ConstructionCostCalculator:22 - Enter the choice
+1.Simple Interest
+2.Compound Interest
+2020-02-25 12:54:28 DEBUG ConstructionCostCalculator:11 - Constructor invoked
+2020-02-25 12:54:28 INFO  ConstructionCostCalculator:28 - The interest is:
+2020-02-25 12:54:28 DEBUG ConstructionCostCalculator:23 - Calculated compound interest
+2020-02-25 12:54:28 INFO  ConstructionCostCalculator:32 - 331.00000000000045 Rupees
+2020-02-25 12:54:34 DEBUG ConstructionCostCalculator:12 - Entered InterestClient main method
+2020-02-25 12:54:34 INFO  ConstructionCostCalculator:16 - Enter principle:
+2020-02-25 12:54:36 INFO  ConstructionCostCalculator:18 - Enter rate:
+2020-02-25 12:54:43 INFO  ConstructionCostCalculator:20 - Enter time in years:
+2020-02-25 12:54:46 INFO  ConstructionCostCalculator:22 - Enter the choice
+1.Simple Interest
+2.Compound Interest
+2020-02-25 12:54:48 ERROR ConstructionCostCalculator:36 - Invalid choice
+2020-02-25 12:56:03 DEBUG ConstructionClient:12 - Entered ConstructionClient Main method
+2020-02-25 12:56:03 INFO  ConstructionClient:16 - Enter the area in square feet:
+2020-02-25 12:56:06 INFO  ConstructionClient:18 - Enter the material standard choice:
+1.Standard
+2.Above standard
+3.High standard
+4.High standard and fully automated home
+2020-02-25 12:56:09 DEBUG ConstructionCostCalculator:12 - Constructor invoked
+2020-02-25 12:56:09 DEBUG ConstructionCostCalculator:19 - Calculated cost and exiting method costCalc()
+2020-02-25 12:56:09 INFO  ConstructionClient:24 - The construction cost is:1500000.0 Rupees
+2020-02-25 12:56:09 DEBUG ConstructionClient:31 - Exiting ConstructionClient Main method
+2020-02-25 12:56:16 DEBUG ConstructionClient:12 - Entered ConstructionClient Main method
+2020-02-25 12:56:16 INFO  ConstructionClient:16 - Enter the area in square feet:
+2020-02-25 12:56:18 INFO  ConstructionClient:18 - Enter the material standard choice:
+1.Standard
+2.Above standard
+3.High standard
+4.High standard and fully automated home
+2020-02-25 12:56:20 ERROR ConstructionClient:28 - Invalid Choice
+2020-02-25 12:56:20 DEBUG ConstructionClient:31 - Exiting ConstructionClient Main method
+2020-02-25 12:56:26 DEBUG ConstructionClient:12 - Entered ConstructionClient Main method
+2020-02-25 12:56:26 INFO  ConstructionClient:16 - Enter the area in square feet:
+2020-02-25 12:56:29 INFO  ConstructionClient:18 - Enter the material standard choice:
+1.Standard
+2.Above standard
+3.High standard
+4.High standard and fully automated home
+2020-02-25 12:56:32 DEBUG ConstructionCostCalculator:12 - Constructor invoked
+2020-02-25 12:56:32 DEBUG ConstructionCostCalculator:19 - Calculated cost and exiting method costCalc()
+2020-02-25 12:56:32 INFO  ConstructionClient:24 - The construction cost is:1800000.0 Rupees
+2020-02-25 12:56:32 DEBUG ConstructionClient:31 - Exiting ConstructionClient Main method
